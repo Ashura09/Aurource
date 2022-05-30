@@ -7,8 +7,8 @@ Source Engine 2013 Enhancement to be closer to Source Engine 2011, thanks to Sou
 
 
 # Installation
-Download/Clone this repository.  
-Place the folder into `sourcemods` folder of Steam.  
-Make sure you have `Source SDK Base 2013 Singleplayer` installed.  
+1. Download/Clone this repository.  
+2. Place the folder into `sourcemods` folder of Steam.  
+3. Make sure you have `Source SDK Base 2013 Singleplayer` installed.  
   
-Now just restart Steam.  
+4. Now just restart Steam.  
