@@ -1,5 +1,6 @@
 # Aurource
-Source Engine 2013 Enhancement to be closer to Source Engine 2011, thanks to Source Engine 2013 CE for MSVC2019 support  
+Source Engine 2013 Enhancement to be closer to Source Engine 2011.  
+Thanks to Source Engine 2013 CE for MSVC2019 support.  
 
 # Features
 1. 2011-styled Font  
