@@ -266,8 +266,8 @@ Scheme
 				"tall"		"14" [$LINUX]
 				"tall"		"11" [$OSX]
 				"tall"		 "10"
-				"tall_lodef" "15"
-				"tall_hidef" "20"
+				"tall_lodef" "14"
+				"tall_hidef" "16"
 				"weight"	 "0"
 				"outline"	 "1"
 			}
@@ -372,6 +372,7 @@ Scheme
 				"tall_hidef"	"28"
 				"weight"		"2000"
 				"outline"		"1"
+				"custom"	"1"
 			}
 		}
 		"ChapterTitleBlur"	[$X360]
@@ -393,22 +394,24 @@ Scheme
 				"name"		"Bahnschrift"
 				"tall"		"32"
 				"antialias" "1"
+				"custom"	"1"
 			}
 			"1"	[$WIN32]
 			{
 				"name"		"Bahnschrift" 
-				"tall"		"28" 
+				"tall"		"24" 
 				"weight"	"400"
 				"antialias" "1"
 			}
 			"1"	[$X360]
 			{
 				"name"		"Bahnschrift"
-				"tall"			"32"
-				"tall_hidef"	"32"
+				"tall"			"30"
+				"tall_hidef"	"30"
 				"weight"	"1200"
 				"antialias" "1"
 				"outline" "1"
+				"custom"	"1"
 			}
 		}
 		"AchievementTitleFont"
@@ -1278,5 +1281,6 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"	
 		"3"		"resource/marlett.ttf"
+		"4"		"resource/Bahnschrift.ttf"
 	}
 }

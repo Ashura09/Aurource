@@ -96,6 +96,7 @@ Scheme
 				"tall"		"18"
 				"weight"	"400"
 				"antialias" "1"
+				"custom"	"1"
 			}
 		}
 		// fonts are used in order that they are listed
@@ -107,6 +108,7 @@ Scheme
 				"tall"		"18"
 				"weight"	"400"
 				"antialias" "1"
+				"custom"	"1"
 			}
 		}
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
@@ -210,7 +212,7 @@ Scheme
 			"6"
 			{
 				"name"		"Arial"
-				"tall"		"12"
+				"tall"		"10"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
 			}
@@ -547,6 +549,7 @@ Scheme
 				"tall"		"24" [$OSX]
 				"weight"	"500"
 				"antialias" "1"
+				"custom"	"1"
 			}
 		}
 		"CloseCaption_Italic"
@@ -560,6 +563,7 @@ Scheme
 				"weight"	"500"
 				"italic"	"1"
 				"antialias" "1"
+				"custom"	"1"
 			}
 		}
 		"CloseCaption_Bold"
@@ -572,6 +576,7 @@ Scheme
 				"tall"		"24" [$OSX]
 				"weight"	"900"
 				"antialias" "1"
+				"custom"	"1"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -585,6 +590,7 @@ Scheme
 				"weight"	"900"
 				"italic"	"1"
 				"antialias" "1"
+				"custom"	"1"
 			}
 		}
 		"CloseCaption_Small"
@@ -595,9 +601,10 @@ Scheme
 				"name"		"Verdana" [$OSX]
 				"tall"		"16" [!$OSX]
 				"tall"		"14" [$OSX]
- 				"tall_hidef"	"20"
+ 				"tall_hidef"	"16"
 				"weight"	"900"
 				"antialias" "1"
+				"custom"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -643,7 +650,7 @@ Scheme
 				"weight" "0"
 				"additive" "0"
 				"antialias" "1"
-				"custom"	"1" [$OSX]
+				"custom"	"1"
 			}
 		}
 		CreditsLogo
@@ -799,6 +806,7 @@ Scheme
 	{
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2crosshairs.ttf"
+		"3"		"resource/Bahnschrift.ttf"
 	}
 
 }

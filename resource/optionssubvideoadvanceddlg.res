@@ -520,7 +520,7 @@
 		"fieldName"		"Button1"
 		"xpos"		"290"
 		"ypos"		"382" [!$OSX]
-		"ypos"		"316" [$OSX]
+		"ypos"		"310" [$OSX]
 		"wide"		"80"
 		"tall"		"24"
 		"autoResize"		"0"
@@ -543,7 +543,7 @@
 		"fieldName"		"Button2"
 		"xpos"		"382"
 		"ypos"		"382" [!$OSX]
-		"ypos"		"316" [$OSX]
+		"ypos"		"310" [$OSX]
 		"wide"		"80"
 		"tall"		"24"
 		"autoResize"		"0"
