@@ -12,4 +12,3 @@ Place the folder into `sourcemods` folder of Steam.
 Make sure you have `Source SDK Base 2013 Singleplayer` installed.  
   
 Now just restart Steam.  
-## Installed  
