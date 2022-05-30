@@ -1,7 +1,7 @@
 "GameInfo"
 {
 	game 		"Aurource"
-	title 		"AURA"
+	title 		"AUROURCE"
 	title2		""
 	supportsvr	1
 
