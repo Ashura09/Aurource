@@ -5,7 +5,11 @@ Thanks to Source Engine 2013 CE for MSVC2019 support.
 # Features
 1. 2011-styled Font  
 2. 2011-styled Jumps
+3. Grabbing like in Portal 2
+4. Up to 16 active env_projected_texture
 
+# Planned
+1. In portal 2, you can set the animations to play backwards, which you can't do in the normal half-life 2
 
 # Installation
 1. Download/Clone this repository.  
