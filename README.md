@@ -1,5 +1,10 @@
 # Aurource
-Source Engine 2013 Enhancement to be closer to Source Engine 2011, thanks to Source Engine 2013 CE for MSVC2019 support
+Source Engine 2013 Enhancement to be closer to Source Engine 2011, thanks to Source Engine 2013 CE for MSVC2019 support  
+
+# Features
+1. 2011-styled Font  
+2. 2011-styled Jumps
+
 
 # Installation
 Download/Clone this repository.  
