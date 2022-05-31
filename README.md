@@ -7,10 +7,10 @@ Thanks to Source Engine 2013 CE for MSVC2019 support.
 2. 2011-styled Jumps
 3. Grabbing like in Portal 2
 4. Up to 512 active env_projectedtexture with dynamic shadows
+5. Viewmodel lit up by projected textures
 
 # Planned
 1. In portal 2, you can set the animations to play backwards, which you can't do in the normal half-life 2
-2. Viewmodel lit up by projected textures
 
 # Installation
 1. Download/Clone this repository.  
