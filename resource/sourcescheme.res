@@ -278,8 +278,9 @@ Scheme
 			{
 				"name"		"Tahoma" [!$POSIX]
 				"name"		"Verdana" [$POSIX]
-				"tall"		"18"
+				"tall"		"14"
 				"weight"	"500"
+				"antialias" "1"
 			}
 		}
 		"DefaultBold"
@@ -288,8 +289,9 @@ Scheme
 			{
 				"name"		"Tahoma" [!$POSIX]
 				"name"		"Verdana Bold" [$POSIX]
-				"tall"		"18"
+				"tall"		"14"
 				"weight"	"1000"
+				"antialias" "1"
 			}
 		}
 		"DefaultUnderline"
@@ -298,9 +300,10 @@ Scheme
 			{
 				"name"		"Tahoma" [!$POSIX]
 				"name"		"Verdana" [$POSIX]
-				"tall"		"16"
+				"tall"		"14"
 				"weight"	"500"
 				"underline" "1"
+				"antialias" "1"
 			}
 		}
 		"DefaultSmall"
@@ -312,6 +315,7 @@ Scheme
 				"tall"		"14" [!$POSIX]
 				"tall"		"13" [$POSIX]
 				"weight"	"0"
+				"antialias" "1"
 			}
 		}
 		"DefaultSmallDropShadow"
@@ -320,7 +324,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$POSIX]
 				"name"		"Verdana" [$POSIX]
-				"tall"		"13"
+				"tall"		"14"
 				"weight"	"0"
 				"dropshadow" "1"
 			}
@@ -331,7 +335,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$POSIX]
 				"name"		"Verdana" [$POSIX]
-				"tall"		"12"
+				"tall"		"14"
 				"weight"	"0"
 			}
 		}
@@ -342,8 +346,9 @@ Scheme
 			{
 				"name"		"Tahoma" [!$POSIX]
 				"name"		"Verdana" [$POSIX]
-				"tall"		"18"
+				"tall"		"24"
 				"weight"	"0"
+				"antialias" "1"
 			}
 		}
 		"UiBold"

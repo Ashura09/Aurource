@@ -25,10 +25,10 @@ Scheme
 	{
 		"FgColor"			"255 220 0 100"
 		"FgColor_vrmode"	"255 220 0 200"
-		"BgColor"			"0 0 0 76"
+		"BgColor"			"0 64 128 76"
 
 		"Panel.FgColor"			"255 220 0 100"
-		"Panel.BgColor"			"0 0 0 76"
+		"Panel.BgColor"			"0 64 128 76"
 		
 		"BrightFg"		"255 220 0 255"
 
@@ -215,6 +215,7 @@ Scheme
 				"tall"		"10"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
+				"antialias" "1"
 			}
 		}
 		"DefaultVerySmall"
@@ -275,6 +276,7 @@ Scheme
 				"tall"		"11"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
+				"antialias" "1"
 			}
 		}
 		WeaponIcons
@@ -530,6 +532,7 @@ Scheme
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
+				"antialias" "1"
 			}
 			"1"	[$X360]
 			{
@@ -537,6 +540,7 @@ Scheme
 				"tall"		"18"
 				"weight"	"200"
 				"outline"	"1"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_Normal"
@@ -793,6 +797,7 @@ Scheme
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
+				"antialias" "1"
 			}
 			
 		}
